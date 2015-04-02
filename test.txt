@@ -1,0 +1,5 @@
+git add  添加文件
+git commit 提交
+git push 
+
+git status
